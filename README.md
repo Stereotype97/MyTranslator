@@ -1,0 +1,2 @@
+# MyTranslator
+Studying project
